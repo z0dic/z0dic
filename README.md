@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z0dic&label=Profile%20views&color=0e75b6&style=flat" alt="z0dic" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/z0dic#0650" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="z0dic#0650" height="20" width="30" /></a>
+<a href="https://discord.com/users/302337999088254988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="z0dic#0650" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/18588120/z0dic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="z0dic" height="20" width="30" /></a>
 <a href="https://steamcommunity.com/id/z0dic" target="blank"><img align="center" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="z0dic#0650" height="20" width="30" /></a>
 <a href="https://www.twitch.tv/z0dic" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="20" width="30">
