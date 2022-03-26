@@ -17,4 +17,4 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="20" height="30"/> </a> 
  <img align="right" alt="z0dic-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/798593475498213376/957264439046975579/19ad4278-5eb8-48a8-a9b6-d3ab3b86acb3.jpeg?width=676&height=676"> </a>
  
- ![Snake ani](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake ani](https://github.com/z0dic/z0dic/blob/main/.github/workflows/snake.yml) 
